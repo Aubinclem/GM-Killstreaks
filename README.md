@@ -1,6 +1,4 @@
 # GM-Killstreaks
-Outputs a message in chat when someone is on a killstreak!
-
-
-
-This is made by AI, as i am bad at LUA.
+Cet addon envoie un message dans le chat quand quelqu'un a un killstreak! 
+(VF SEULEMENT)
+Fait avec une IA, car je suis nul en LUA.
